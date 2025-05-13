@@ -112,7 +112,7 @@ export default function Header() {
             <img src="assets/card3.webp" alt="" />
           </div>
           <div className='heading-3'>
-            <h1 className='head'>Follow us on Facebooo
+            <h1 className='head'>Follow us on Facebook
             </h1>
             <p className='paragraph'>Find the perfect modern chandelier for every room <br />of the house.</p>
           </div>
